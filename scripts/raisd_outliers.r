@@ -1,9 +1,9 @@
 library(openintro)
 
-setwd("C:/Users/wengz/Dropbox/Chapter 3/Nebria_ingens_WGS/RAiSD/RAiSD_all_mu_statistics")
-pop <- list.files(path = "C:/Users/wengz/Dropbox/Chapter 3/Nebria_ingens_WGS/RAiSD/RAiSD_all_mu_statistics")
+setwd("C:/Users/wengz/Dropbox/Chapter 3/Nebria_ingens_WGS/RAiSD/RAiSD_outliers")
+pop <- list.files(path = "C:/Users/wengz/Dropbox/Data/Nebria_ingens/RAiSD_out", full.names=TRUE)
 
-q=0.999
+q=0.995
 for (i in 1:length(pop)){
   population <- pop[i]
   print(paste("working on",population, " ..."))
@@ -27,7 +27,7 @@ for (i in 1:length(pop)){
   abline(v=upper_bound, col="red")
   outliers <- raisd.out[which(raisd.out$V7 > upper_bound),]
   bed <- cbind(outliers$V8, outliers$V1, outliers$V1)
-  write.table(bed, file=paste(population, "999quantile.bed", sep=""), quote=F, col.names = F, row.names = F, sep="\t")
+  write.table(bed, file=paste(population, "995quantile.bed", sep=""), quote=F, col.names = F, row.names = F, sep="\t")
 }
 dev.off()
 

@@ -9,17 +9,17 @@ omegaplus.out <- read.table("omegaPlus_out_final")
 
 
 # using quantile to define outlier and write them into a bed file
-quantile=0.999
+quantile=0.995
 upper_bound <- quantile(omegaplus.out$V3, quantile)
 outliers <- omegaplus.out[which(omegaplus.out$V3 > upper_bound),]
 length(outliers$V3)
 # 1447 SNPs being defined as outlier
-write.csv(outliers, "omegaplus_999quantile.csv", quote=F, row.names = F)
+write.csv(outliers, "omegaplus_995quantile.csv", quote=F, row.names = F)
 bed <- cbind(outliers$V1, outliers$V2, outliers$V2)
-write.table(bed, "omegaplus_999quantile.bed", quote=F, col.names = F, row.names = F, sep="\t")
+write.table(bed, "omegaplus_995quantile.bed", quote=F, col.names = F, row.names = F, sep="\t")
 
 
-### other possible way to get the extreme omega statistics
+### other possible ways to get the extreme omega statistics (for comparison only)
 #1) considering the distribution of omega statistic and get the most extreme omegas
 densityPlot(log10(omegaplus.out$V3), xlim=c(0,3), col="red")
 # define the cutoff to be log10(omegaplus.out$V3) > 1.5 (omega > 31.6)

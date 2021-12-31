@@ -8,20 +8,24 @@ BiocManager::install("qvalue")
 library(qvalue)
 library(pcadapt)
 
-setwd("E:/YiMing/pcadapt/")
+setwd("C:/Users/PC/Dropbox/Chapter 3/Nebria_ingens_WGS/pcadapt")
 # convert the vcf file to bed file
-variants <- read.pcadapt("E:/YiMing/pcadapt/lcs_final.bed", type = "bed", type.out = "bed")
+# if it's been done, read the bed file
+variants <- read.pcadapt("C:/Users/PC/Dropbox/Data/Nebria_ingens/Nebria_ingens_GEA_data/lcs_final.bed", type = "bed", type.out = "bed")
 
-# Choosing the number K of Principal Components
-# Scree plot:
+# Choosing the number K of Principal Components (here we I use 10, see result of sNMF)
+# Conduct pcadapt analysis, with minor allele threshold to be 0.05 (374*2*0.05= only loci with > 38 alt alleles will be considered)
+# the LD thinning parameters are following the default setting (500 window size, r square=0.1)
 x <- pcadapt(input = variants, K = 10, min.maf = 0.05 , LD.clumping = list(size = 500, thr = 0.1))
-summary(x$loadings)
+# see how many sites are removed from doing pca 
+summary(x$loadings) # 1,642,161 sites are removed by maf and LD thining
 
+# Scree plot:
 x11()
 plot(x, option = "screeplot")
 
 # Score plot
-Pop <- read.table("E:/YiMing/pcadapt/ingens_lcs_final_list", header = T, sep = "\t")
+Pop <- read.table("ingens_lcs_final_list", header = T, sep = "\t")
 poplist.sp <- Pop$sp
 poplist.names <- Pop$pop
 x11()
@@ -65,10 +69,10 @@ p.final.table <- p.final.table[order(p.final.table$contig, p.final.table$pos),]
 p.final.table <- na.omit(p.final.table) 
 write.table(p.final.table, "E:/YiMing/pcadapt/pvalue_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
 
-# Choosing 0.1 a cutoff for outlier detection
+# Choosing 0.05 a cutoff for outlier detection
 ##### Q value
 qval <- qvalue(x$pvalues)$qvalues
-alpha <- 0.1
+alpha <- 0.05
 q.p <- data.frame(pos=pos$V2,pvalue=x$pvalues,qval=qval)
 q.outliers <- q.p$pos[which(q.p$qval < alpha)]
 length(q.outliers)
@@ -82,11 +86,11 @@ colnames(q.final.table) <- c("contig","pos", "pvalue", "qvalue")
 q.final.table$contig <- as.numeric(q.final.table$contig)
 q.final.table$pos <- as.numeric(q.final.table$pos)
 q.final.table <- q.final.table[order(q.final.table$contig, q.final.table$pos),]
-write.table(q.final.table, "E:/YiMing/pcadapt/qvalue_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(q.final.table, "qvalue_outliers_0.05.txt", row.names=FALSE, sep="\t", quote = FALSE)
 
 ##### Benjamini-Hochberg Procedure
 padj <- p.adjust(x$pvalues,method="BH")
-alpha <- 0.1
+alpha <- 0.05
 padj.p <- data.frame(pos=pos$V2,pvalue=x$pvalues,padj=padj)
 padj.outliers <- padj.p$pos[which(padj.p$padj < alpha)]
 length(padj.outliers)
@@ -98,12 +102,12 @@ colnames(padj.final.table) <- c("contig","pos", "pvalue", "BH-p")
 padj.final.table$contig <- as.numeric(padj.final.table$contig)
 padj.final.table$pos <- as.numeric(padj.final.table$pos)
 padj.final.table <- padj.final.table[order(padj.final.table$contig, padj.final.table$pos),]
-write.table(padj.final.table, "E:/YiMing/pcadapt/BH_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(padj.final.table, "BH_outliers_0.05.txt", row.names=FALSE, sep="\t", quote = FALSE)
 
 
 ##### Bonferroni correction
 bonadj <- p.adjust(x$pvalues,method="bonferroni")
-alpha <- 0.1
+alpha <- 0.05
 bonadj.p <- data.frame(pos=pos$V2,pvalue=x$pvalues,bonadj=bonadj)
 bonadj.outliers <- bonadj.p$pos[which(bonadj.p$bonadj < alpha)]
 length(bonadj.outliers)
@@ -115,5 +119,5 @@ colnames(bonadj.final.table) <- c("contig","pos", "pvalue", "adjust")
 bonadj.final.table$contig <- as.numeric(bonadj.final.table$contig)
 bonadj.final.table$contig <- as.numeric(bonadj.final.table$contig)
 bonadj.final.table <- bonadj.final.table[order(bonadj.final.table$contig, bonadj.final.table$pos),]
-write.table(bonadj.final.table, "E:/YiMing/pcadapt/bonferroni_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(bonadj.final.table, "bonferroni_outliers_0.05.txt", row.names=FALSE, sep="\t", quote = FALSE)
 

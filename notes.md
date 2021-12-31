@@ -53,36 +53,36 @@ done
 cat omegaPlus_out | grep -v "/" | sort -n -k1,1 -k2,2 >> omegaPlus_out_final
 ```
 
-4. After merging the omegaplus outputs of those contigs, use R to find the largest 0.999 quantile of omega statistics. The R script is written in "**omegaplus_outliers.r**" in the [script folder](https://github.com/yimingweng/Nebria_ingens_WGS/tree/main/scripts). There are another twos methods I considered to use to define outliers but I decided not use them because they gave me similar results to the quantile method, and everything here is about how we want to set up the threshold, if no simulation result can be used to calculate the p-value with reasonable cutoff.
+4. After merging the omegaplus outputs of those contigs, use R to find the largest 0.995 quantile of omega statistics. The R script is written in "**omegaplus_outliers.r**" in the [script folder](https://github.com/yimingweng/Nebria_ingens_WGS/tree/main/scripts). There are another twos methods I considered to use to define outliers but I decided not use them because they gave me similar results to the quantile method, and everything here is about how we want to set up the threshold, if no simulation result can be used to calculate the p-value with reasonable cutoff.
 ```
 # R environment
 setwd("C:/Users/wengz/Dropbox/Chapter 3/Nebria_ingens_WGS/omegaplus")
 omegaplus.out <- read.table("omegaPlus_out_final")
 # define outlier and write them into a bed file
-upper_bound <- quantile(omegaplus.out$V3, 0.999)
+upper_bound <- quantile(omegaplus.out$V3, 0.995)
 outliers <- omegaplus.out[which(omegaplus.out$V3 > upper_bound),]
 # 1447 SNPs being defined as outlier
-write.csv(outliers, "omegaplus_999quantile.csv", quote=F, row.names = F)
+write.csv(outliers, "omegaplus_995quantile.csv", quote=F, row.names = F)
 bed <- cbind(outliers$V1, outliers$V2, outliers$V2)
-write.table(bed, "omegaplus_999quantile.bed", quote=F, col.names = F, row.names = F, sep="\t")
+write.table(bed, "omegaplus_995quantile.bed", quote=F, col.names = F, row.names = F, sep="\t")
 ```
 
-5. The quantile 0.999 gave an output with top 1,477 sites. Let's use these 1,477 outliers to find the candidate genes
+5. The quantile 0.995 gave an output with top 7,236 sites. Let's use these 7,236 outliers to find the candidate genes
 ```
 working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/
 # convert the bed files from DOS line endings to Unix line endings
 # I ran this because I encountered this error from bedtools: ERROR: Received illegal bin number 4294967295 from getBin call
-dos2unix omegaplus_999quantile.bed
+dos2unix omegaplus_995quantile.bed
 # find the intersection of omegaplus outlier and the genes (gff.bed)
-bedtools intersect -a gff.bed -b omegaplus_999quantile.bed -wa | sour -n -k1,1 -k2,2 >> omegaplus_gff.bed
+bedtools intersect -a gff.bed -b omegaplus_995quantile.bed -wa | sour -n -k1,1 -k2,2 >> omegaplus_995quantile_gff.bed
 ```
 
 4. Because I wanted to have omega statistic of those genes, so I found the mean omega of sites being identified from the same gene to represent the omega statistic of the gene. With this information, I will be able to search gene function from the gene with highest mean omega statistic.
   - First, get the gene list from the bed file by generating bed file with omegaplus coordinates:
 ```
-working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/omegaplus_out/
-dos2unix omegaplus_999quantile.bed
-bedtools intersect -a omegaplus_999quantile.bed -b ../gff.bed -wa >> omegaplus_gff_tmp
+# working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/omegaplus_out/
+dos2unix omegaplus_995quantile.bed
+bedtools intersect -a omegaplus_995quantile.bed -b ../gff.bed -wa >> omegaplus_gff_tmp
 ```
 
   - get the omega statistic for the sites
@@ -95,7 +95,7 @@ do
   pos=$(echo ${site} | cut -d $'\t' -f 2)
   cat /media/Jade/YMW/OmegaPlus_v2.2.2_Linux/ingens_scan/omegaPlus_out_final | grep -Pw "${contig}"$'\t'"${pos}" >> omegaplus_gff_coordinate
 done
-bedtools intersect -a ../gff.bed -b omegaplus_999quantile.bed -wa >> omegaplus_gff.bed.tmp
+bedtools intersect -a ../gff.bed -b omegaplus_995quantile.bed -wa >> omegaplus_gff.bed.tmp
 paste omegaplus_gff.bed.tmp omegaplus_gff_coordinate | cut -d $'\t' -f 1,2,3,6 >> omegaplus_gene_position
 rm omegaplus_gff.bed.tmp omegaplus_gff_coordinate
 ```
@@ -113,7 +113,7 @@ do
 done
 ```
 
-  - grap the gene from the gff file
+  - grape the gene from the gff file
 ```
 # working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/omegaplus_out/
 IFS=$'\n'
@@ -129,25 +129,25 @@ do
   echo -e "${contig}\t${start}\t${omega}\t${ID}\t${gene}" >> omegaplus_gene_list
 done
 cat omegaplus_gene_list | grep "XP" | wc -l 
-# in 121 genes, 98 genes have gene annotation
+# in 533 genes, 425 genes have gene annotation
 # sort the final table
 cat omegaplus_gene_list | sort -n -k3,3 >> omegaplus_gene_final_list
 rm *tmp* *position*
 ```
-  - check the final product: **omegaplus_gene_final_list**. Note that some (98 in 121) of genes do not have protein/function annotation. 
+  - check the final product: **omegaplus_gene_final_list**. Note that some (425 in 533) of genes do not have protein/function annotation. 
 ```
 cat omegaplus_gene_final_list  | sort -nr -k3,3 | head
 FORMAT: CONTIG  START_POS OMEGA_STAT GENE_NAME GENE_ID
 773     72683   627.243 Nriv.00g078820  XP_975582.3
 79      7684    407.265 Nriv.00g009670
-1944    84176   346.908 Nriv.00g174690  XP_018578822.1
 1335    15429   315.833 Nriv.00g135090  XP_018332723.1
-1137    176     232.358 Nriv.00g114980  XP_003702090.1
-989     25749   231.529 Nriv.00g100680  XP_019873439.1
+1944    84176   286.506 Nriv.00g174690  XP_018578822.1
 1514    35749   219.906 Nriv.00g147950  XP_018577451.1
 755     207314  199.232 Nriv.00g076550  XP_018579891.1
 755     183745  199.232 Nriv.00g076490  XP_021942915.1
-862     592     183.663 Nriv.00g084070  XP_022910755.1
+1137    176     195.931 Nriv.00g114980  XP_003702090.1
+891     785286  167.257 Nriv.00g088610  XP_017781781.1
+510     5886    164.791 Nriv.00g049460  XP_023310607.1
 ```
 
 5. Use this table to search gene function through internet. The results are manually edited in the excel file called "**omegaplus_gene_function.xlsx**".
@@ -237,7 +237,7 @@ do
 done
 ```
 
-2. Now all the populations have their own μ statistic outputs (I put this data in my own dropbox [here](https://www.dropbox.com/home/Data/Nebria_ingens/RAiSD_out)). Let's use R script called [**raisd_outliers.r**](https://github.com/yimingweng/Nebria_ingens_WGS/blob/main/scripts/raisd_outliers.r) to find the SNPs with highest μ statistic (again, I used 0.999 quantile) in all variation sites of the population. 
+2. Now all the populations have their own μ statistic outputs (I put this data in my own dropbox [here](https://www.dropbox.com/home/Data/Nebria_ingens/RAiSD_out)). Let's use R script called [**raisd_outliers.r**](https://github.com/yimingweng/Nebria_ingens_WGS/blob/main/scripts/raisd_outliers.r) to find the SNPs with highest μ statistic (again, I used 0.995 quantile) in all variation sites of the population. 
 ```
 ## R environment
 library(openintro)
@@ -245,7 +245,7 @@ library(openintro)
 setwd("C:/Users/wengz/Dropbox/Chapter 3/Nebria_ingens_WGS/RAiSD/RAiSD_all_mu_statistics")
 pop <- list.files(path = "C:/Users/wengz/Dropbox/Chapter 3/Nebria_ingens_WGS/RAiSD/RAiSD_all_mu_statistics")
 
-q=0.999
+q=0.995
 for (i in 1:length(pop)){
   population <- pop[i]
   print(paste("working on",population, " ..."))
@@ -269,7 +269,7 @@ for (i in 1:length(pop)){
   abline(v=upper_bound, col="red")
   outliers <- raisd.out[which(raisd.out$V7 > upper_bound),]
   bed <- cbind(outliers$V8, outliers$V1, outliers$V1)
-  write.table(bed, file=paste(population, "999quantile.bed", sep=""), quote=F, col.names = F, row.names = F, sep="\t")
+  write.table(bed, file=paste(population, "995quantile.bed", sep=""), quote=F, col.names = F, row.names = F, sep="\t")
 }
 dev.off()
 ```
@@ -279,10 +279,10 @@ dev.off()
 
 ```
 # use bedtools to find the selective genes for each population
-# working dir: sean@Fuji:/media/Data1/Yiming/software/RAiSD/raisd-master/ingens/intersection
+# working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/RAiSD_out/
 
 mkdir gene_list
-for file in $(ls ./*stat999quantile.bed)
+for file in $(ls ./*stat995quantile.bed)
 do
   name=$(echo ${file} | cut -d "/" -f 2 | cut -d "_" -f 1)
   echo "working on ${name}..."
@@ -298,7 +298,7 @@ do
   done
 done
 
-# working dir: sean@Fuji:/media/Data1/Yiming/software/RAiSD/raisd-master/ingens/intersection/gene_list
+# working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/RAiSD_out/gene_list
 
 IFS=$'\n'
 for gene in $(cat * | sort | uniq)
@@ -308,21 +308,22 @@ do
 done
 cat all_genes | sort -n -k3,3 >> all_raisd_genes_sorted
 cat all_raisd_genes_sorted | wc -l 
-# 949 genes are found in at least one population 
+# 2741 genes are found in at least one population 
 ```
 
-4. In the union 949 genes, there are 60 genes being detected at least in 4 populations. These genes will be pulled out and check their function.
+4. In the union 2,741 genes, there are 52 genes being detected at least in 9 populations. These genes will be pulled out and check their function.
 ```
+IFS=$'\n'
 for gene in $(cat all_raisd_genes_sorted | grep "XP")
   do 
   count=$(echo $gene | cut -d $'\t' -f 3)
-  if [[ $count -ge 4 ]]
+  if [[ $count -ge 9 ]]
   then 
     echo $gene >> raisd_final_genes
   fi
 done
 cat  raisd_final_genes | wc -l 
-# 60 genes
+# 52 genes
 ```
 5. Use this table to search gene function through internet. The results are manually edited in the excel file called "raisd_gene_function.xlsx".
 
@@ -359,8 +360,8 @@ setwd("E:/YiMing/pcadapt/")
 variants <- read.pcadapt("E:/YiMing/pcadapt/lcs_final.bed", type = "bed", type.out = "bed")
 
 # Choosing the number K of Principal Components (here we I use 10, see result of sNMF)
-# Conduct pcadapt analysis, with minor allele threashold to be 0.05 (374*2*0.05= only loci with > 38 alt alleles will be considered)
-# the LD thinning parameters are following the default setting (500 window size, r suqare=0.1)
+# Conduct pcadapt analysis, with minor allele threshold to be 0.05 (374*2*0.05= only loci with > 38 alt alleles will be considered)
+# the LD thinning parameters are following the default setting (500 window size, r square=0.1)
 x <- pcadapt(input = variants, K = 10, min.maf = 0.05 , LD.clumping = list(size = 500, thr = 0.1))
 # see how many sites are removed from doing pca 
 summary(x$loadings) # 1,642,161 sites are removed by maf and LD thining
@@ -403,25 +404,11 @@ plot(x , option = "manhattan")
 ```
 ### detect outliers with different methods
 # import and sort the loci position
-pos <- read.table("E:/YiMing/pcadapt/lcs_final.bim", header=F, sep="\t")
-p <- data.frame(pos=pos$V2,pvalue=x$pvalues)
+# Choosing 0.05 a cutoff for outlier detection
 
-# write p-value result into disk first, note that no cutoff is applied yet
-p$pos <- gsub('Contig_', '', p$pos)
-p.final.table <- data.frame(do.call('rbind', strsplit(as.character(p$pos),':',fixed=TRUE)), p$pvalue)
-colnames(p.final.table) <- c("contig","pos", "pvalue")
-p.final.table$contig <- as.numeric(p.final.table$contig)
-p.final.table$pos <- as.numeric(p.final.table$pos)
-p.final.table <- p.final.table[order(p.final.table$contig, p.final.table$pos),]
-
-# remove NA (loci didn't pass the 0.05 maf filter)
-p.final.table <- na.omit(p.final.table) 
-write.table(p.final.table, "E:/YiMing/pcadapt/pvalue_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
-
-# Choosing 0.1 a cutoff for outlier detection
 ##### Q value
 qval <- qvalue(x$pvalues)$qvalues
-alpha <- 0.1
+alpha <- 0.05
 q.p <- data.frame(pos=pos$V2,pvalue=x$pvalues,qval=qval)
 q.outliers <- q.p$pos[which(q.p$qval < alpha)]
 length(q.outliers)
@@ -435,11 +422,11 @@ colnames(q.final.table) <- c("contig","pos", "pvalue", "qvalue")
 q.final.table$contig <- as.numeric(q.final.table$contig)
 q.final.table$pos <- as.numeric(q.final.table$pos)
 q.final.table <- q.final.table[order(q.final.table$contig, q.final.table$pos),]
-write.table(q.final.table, "E:/YiMing/pcadapt/qvalue_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(q.final.table, "qvalue_outliers_0.05.txt", row.names=FALSE, sep="\t", quote = FALSE)
 
 ##### Benjamini-Hochberg Procedure
 padj <- p.adjust(x$pvalues,method="BH")
-alpha <- 0.1
+alpha <- 0.05
 padj.p <- data.frame(pos=pos$V2,pvalue=x$pvalues,padj=padj)
 padj.outliers <- padj.p$pos[which(padj.p$padj < alpha)]
 length(padj.outliers)
@@ -451,12 +438,12 @@ colnames(padj.final.table) <- c("contig","pos", "pvalue", "BH-p")
 padj.final.table$contig <- as.numeric(padj.final.table$contig)
 padj.final.table$pos <- as.numeric(padj.final.table$pos)
 padj.final.table <- padj.final.table[order(padj.final.table$contig, padj.final.table$pos),]
-write.table(padj.final.table, "E:/YiMing/pcadapt/BH_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(padj.final.table, "BH_outliers_0.05.txt", row.names=FALSE, sep="\t", quote = FALSE)
 
 
 ##### Bonferroni correction
 bonadj <- p.adjust(x$pvalues,method="bonferroni")
-alpha <- 0.1
+alpha <- 0.05
 bonadj.p <- data.frame(pos=pos$V2,pvalue=x$pvalues,bonadj=bonadj)
 bonadj.outliers <- bonadj.p$pos[which(bonadj.p$bonadj < alpha)]
 length(bonadj.outliers)
@@ -468,7 +455,82 @@ colnames(bonadj.final.table) <- c("contig","pos", "pvalue", "adjust")
 bonadj.final.table$contig <- as.numeric(bonadj.final.table$contig)
 bonadj.final.table$contig <- as.numeric(bonadj.final.table$contig)
 bonadj.final.table <- bonadj.final.table[order(bonadj.final.table$contig, bonadj.final.table$pos),]
-write.table(bonadj.final.table, "E:/YiMing/pcadapt/bonferroni_outliers.txt", row.names=FALSE, sep="\t", quote = FALSE)
+write.table(bonadj.final.table, "bonferroni_outliers_0.05.txt", row.names=FALSE, sep="\t", quote = FALSE)
 ```
 
-6. Finally, I used the most strict method (Bonferroni) at alpha=0.05 to define the outliers. Even with this strict threshold, I still got 14,532 SNPs passing this threshold, which hits 2,564 genes (see next section: Intersection of Three).
+6. Finally, I used the most strict method (Bonferroni) at alpha=0.05 to define the outliers. Even with this strict threshold, I still got 14,532 SNPs passing this threshold, which hits 2,564 genes (see next step).
+
+7. Find the candidate gene using the outlier SNPs from step6. The final gene list will be used to find the intersection with the other two methods.
+```
+# working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/pcadapt/
+awk '{ print $1" "$2" "$2 }'bonferroni_outliers_0.05.txt | sed 's/ /\t/g' >> pcadapt_bfr005.bed
+# use bedtools to find the outlier genes
+nano pcadapt_bfr005.bed # manually remove the header
+bedtools intersect -a ../gff.bed -b pcadapt_bfr005.bed -wa >> pcadapt_bfr005_gff.bed
+cat pcadapt_bfr005_gff.bed | sort | uniq >> pcadapt_bfr005_gff_uniq.bed
+# get the genes from the gff file
+IFS=$'\n'
+for site in $(cat pcadapt_bfr005_gff_uniq.bed)
+do
+  contig=$(echo ${site} | cut -d $'\t' -f 1)
+  start=$(echo ${site} | cut -d $'\t' -f 2)
+  stop=$(echo ${site} | cut -d $'\t' -f 3)
+  gene=$(cat /media/Jade/YMW/gff/Nebria_riversi_contig_annotation.gff3 | grep "gene"  | grep -Pw "^${contig}" | grep "${start}" | grep "${stop}" | grep -o "ID=.*" | cut -d ";" -f 1 | cut -d "=" -f 2) 
+  echo "${gene}" >> pcadapt_bfr005_gene_list
+done 
+```
+
+## Intersection of OmegaPlus, RAiSD, and Pcadapt
+1. To find the genes being identifed by all the three methods, the candidate genes from each method are put together in the same folder.
+```
+# working dir: sean@Fuji:/media/Jade/YMW/gff/WGS/intersection/
+# make candidate gene list from the union of population list of RAiSD
+cat /media/Jade/YMW/gff/WGS/RAiSD_out/gene_list/all_genes | cut -d $'\t' -f 1 >> raisd_995quantile_gene_list
+
+# make the candidate gene list from the OmegaPlus outliers
+IFS=$'\n'
+for site in $(cat /media/Jade/YMW/gff/WGS/omegaplus_out/omegaplus_995quantile_gff.bed)
+do
+  contig=$(echo ${site} | cut -d $'\t' -f 1)
+  start=$(echo ${site} | cut -d $'\t' -f 2)
+  stop=$(echo ${site} | cut -d $'\t' -f 3)
+  gene=$(cat /media/Jade/YMW/gff/Nebria_riversi_contig_annotation.gff3 | grep "gene"  | grep -Pw "^${contig}" | grep "${start}" | grep "${stop}" | grep -o "ID=.*" | cut -d ";" -f 1 | cut -d "=" -f 2) 
+  echo "${gene}" >> omegaplus_995quantile_gene_list
+done
+
+# copy the candidate gene list from pcadapt folder
+cp /media/Jade/YMW/gff/WGS/pcadapt/pcadapt_bfr005_gene_list ./
+
+# check the three lists
+ls *
+omegaplus_995quantile_gene_list  pcadapt_bfr005_gene_list  raisd_995quantile_gene_list
+
+# find the genes that present in all three lists
+IFS=$'\n'
+for site in $(cat *_gene_list | sort| uniq)
+do
+  count=$(cat *_gene_list | grep ${site} | wc -l)
+  if [[ $count -eq 3 ]]
+  then
+    echo $site >> all_way_intersection
+  fi
+done
+
+# See how many final genes:
+cat all_way_intersection | wc -l
+# 59 genes!
+
+# get the gene ID for searching gene function on NCBI
+IFS=$'\n'
+for gene in $(cat ./all_way_intersection)
+do
+  echo "working on ${gene}..."
+  ID=$(cat ../../Nebria_riversi_contig_annotation.gff3 | grep -Pw "gene" |  grep "ID=${gene}" | cut -d $'\t' -f 9 | cut -d ";" -f 6 | cut -d " " -f 1 | cut -d "=" -f 2)
+  echo -e "${gene}\t${ID}" >> Ningens_WGS_genes
+done
+```
+
+2. The number of genes from each method are listed below, and the final gene list has 59 genes. The genes in the list will be manually check their function through internet and stored in **Ningens_WGS_genes.xlsx** in the intersection folder.
+  - Pcadapt: 2,564
+  - OmegaPlus: 533
+  - RAiSD: 2,741
