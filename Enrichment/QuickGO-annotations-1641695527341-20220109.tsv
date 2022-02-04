@@ -1,0 +1,122 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A0B4K6K8	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4KG66	Mps1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:15556864		7227	FlyBase		P
+UniProtKB	A0A0B4KGY9	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4KHV4	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4LFV9	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4LGV3	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A1ZA22	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A1ZAV3	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	B7Z043	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	M9PD17	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	M9PDZ5	CHES-1-like	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	O15945	tgo	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:16278294		7227	FlyBase		P
+UniProtKB	O46067	GRP170	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000452651|UniProtKB:Q9Y4L1	7227	GO_Central		P
+UniProtKB	O46067	GRP170	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9Y4L1	7227	FlyBase		P
+UniProtKB	O76863	eIF2Bbeta	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	P02516	Hsp23	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P02516	Hsp23	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P02825	Hsp70Ab	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P02825	Hsp70Ab	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P10735	tko	involved_in	GO:0001666	response to hypoxia	ECO:0000314	IDA	PMID:20034480		7227	FlyBase		P
+UniProtKB	P14003	h	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:18927626		7227	FlyBase		P
+UniProtKB	P24156	l(2)37Cc	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	P35500	para	involved_in	GO:0001666	response to hypoxia	ECO:0000314	IDA	PMID:20034480		7227	FlyBase		P
+UniProtKB	P48602	Vha68-1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	P54352	eas	involved_in	GO:0001666	response to hypoxia	ECO:0000314	IDA	PMID:20034480		7227	FlyBase		P
+UniProtKB	P82910	Hsp70Aa	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P82910	Hsp70Aa	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P91927	Letm1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q00449	Mdr49	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q00449	Mdr49	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q0E9G4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q0E9G4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q24079	Eip93F	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0266411|MGI:MGI:106918|PANTHER:PTN000548864|RGD:61928|RGD:68404|UniProtKB:Q16665|UniProtKB:Q99814	7227	GO_Central		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000250	ISS	PMID:8682312	HGNC:4910	7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:19587118		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:16278294		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:19285057		7227	FlyBase		P
+UniProtKB	Q24179	Slh	involved_in	GO:0001666	response to hypoxia	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q62991	7227	ParkinsonsUK-UCL		P
+UniProtKB	Q24278	CngA	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q24278	CngA	involved_in	GO:0001666	response to hypoxia	ECO:0000316	IGI	PMID:20592263	FB:FBgn0038435,FB:FBgn0038436	7227	FlyBase		P
+UniProtKB	Q6B4I4	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q7JN15	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q7K0T0	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q7KMN4	Ulp1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q7KXY9	Mnn1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16260610		7227	FlyBase		P
+UniProtKB	Q7YU18	Eip93F	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q86PA1	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8I0C2	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7227	GO_Central		P
+UniProtKB	Q8I0C2	Hph	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q8I0C2	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:11598268		7227	FlyBase		P
+UniProtKB	Q8IHE3	CG11779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8IMS8	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8INF0	Gyc88E	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q8INI8	Hsp70Ba	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8INI8	Hsp70Ba	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8IPU3	tzn	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q8MPP2	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8MRP7	MFS14	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8MRP7	MFS14	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8MS04	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8MSR4	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8MZ79	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8SX21	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7227	GO_Central		P
+UniProtKB	Q8SX21	Hph	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q8SX21	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:11598268		7227	FlyBase		P
+UniProtKB	Q8SXU2	Mnn1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16260610		7227	FlyBase		P
+UniProtKB	Q95SB6	CG11779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q95U00	CG11779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q961L4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q961L4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIR7	Hsp70Bc	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIR7	Hsp70Bc	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIS2	Hsp70Bb	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIS2	Hsp70Bb	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9GQ88	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9GU55	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9I7P8	tzn	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9NCC3	SH3PX1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9NII1	Adar	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:11254668		7227	FlyBase		P
+UniProtKB	Q9U1H1	CHES-1-like	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9U4L6	Tom40	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9U9A9	Tsc1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9U9B0	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VAI1	CIA30	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:23226344		7227	FlyBase		P
+UniProtKB	Q9VBQ1	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VCC9	Tsc1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VDZ7	CG117799	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VDZ8	CG117799	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VEH1	Mps1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:15556864		7227	FlyBase		P
+UniProtKB	Q9VEU5	Gyc89Db	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q9VEU6	Gyc89Da	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q9VEZ5	IKKbeta	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:24993778		7227	FlyBase		P
+UniProtKB	Q9VG58	Hsp70Bbb	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9VG58	Hsp70Bbb	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9VG69	Srlp	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VGM1	Mrp4	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:17284667		7227	FlyBase		P
+UniProtKB	Q9VHD0	phu	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VHV5	Arl8	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VL32	Sur	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16882722		7227	FlyBase		P
+UniProtKB	Q9VM47	Mnn1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16260610		7227	FlyBase		P
+UniProtKB	Q9VN75	plh	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VN98	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7227	GO_Central		P
+UniProtKB	Q9VN98	Hph	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q9VN98	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:11598268		7227	FlyBase		P
+UniProtKB	Q9VPB3	tzn	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VTZ6	Pmm2	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VW12	CG9231	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q96A26	7227	FlyBase		P
+UniProtKB	Q9VW83	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VWK5	Ulp1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VY77	jub	involved_in	GO:0001666	response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001198456|UniProtKB:A6NIX2|UniProtKB:Q96IF1|UniProtKB:Q9UGP4	7227	GO_Central		P
+UniProtKB	Q9VYS3	Upf1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VZF4	ago	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:19285057		7227	FlyBase		P
+UniProtKB	Q9VZS3	eIF1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VZY2	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9W0G1	Ptp61F	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9W3Q5	CHES-1-like	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9W539	Hr4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9Y0V3	Tim9b	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+RNAcentral	URS000022A117_7227	Drosophila melanogaster (fruit fly) dme-miR-190-5p	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:27223464		7227	FlyBase		P

@@ -18,6 +18,26 @@ write.csv(outliers, "omegaplus_995quantile.csv", quote=F, row.names = F)
 bed <- cbind(outliers$V1, outliers$V2, outliers$V2)
 write.table(bed, "omegaplus_995quantile.bed", quote=F, col.names = F, row.names = F, sep="\t")
 
+# visualize the distribution of omega statistic
+x11()
+ggplot(omegaplus.out, aes(x=log(V3))) +
+  geom_density(alpha=.2, fill="lightblue", color="darkblue") +
+  geom_vline(xintercept = log(upper_bound), linetype="dotted", color = "red", size=1) +
+  #geom_text(aes(x=log(upper_bound), label="cutoff at 99.5% quantile", y=0.6), col="red", angle=90, vjust = 1.2, text=element_text(size=14)) +
+  xlab(expression(log(omega))) + ylab("density") +
+  xlim(0, max(log(omegaplus.out$V3)))+
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), panel.background = element_blank(), axis.line = element_line(colour = "black"))
+
+# manhattan plot
+omegaplus.out$V4 <- (1:length(omegaplus.out$V3))
+x11()
+ggplot(omegaplus.out, aes(x=V4, y=log(V3))) + 
+  geom_point(size=1, col="black") +
+  xlab("position") + 
+  ylab(expression(log(omega))) +
+  geom_hline(yintercept=log(upper_bound), linetype="dashed", color = "red", size=1)+
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), panel.background = element_blank(), axis.line = element_line(colour = "black"))
+
 
 ### other possible ways to get the extreme omega statistics (for comparison only)
 #1) considering the distribution of omega statistic and get the most extreme omegas

@@ -275,7 +275,7 @@ dev.off()
 ```
 
 
-3. This R script generates outputs of top 0.001 SNPs with highest μ statistic. Now let's use bedtools to find the gene location for those SNPS.
+3. This R script generates outputs of top 0.005 SNPs with highest μ statistic. Now let's use bedtools to find the gene location for those SNPS.
 
 ```
 # use bedtools to find the selective genes for each population

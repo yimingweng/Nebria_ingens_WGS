@@ -1,0 +1,686 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A0B4K6K8	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4KG66	Mps1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:15556864		7227	FlyBase		P
+UniProtKB	A0A0B4KGY9	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4KHV4	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4LFV9	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0B4LGV3	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A0A0J9QX61	Dsim\GD23452	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9R7G7	Dsim\GD10242	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RBI5	Dsim\GD25799	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9REY9	Dsim\GD11289	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9REY9	Dsim\GD11289	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RG84	Dsim\GD25357	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RSV4	Dsim\GD12900	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RTH5	Dsim\GD14176	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RUG1	Dsim\GD14386	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RYM8	Dsim\GD14854	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RYM8	Dsim\GD14854	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9RYM8	Dsim\GD14854	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9TK49	Dsim\GD22301	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9UBZ4	Dsim\GD13480	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W0G1|FlyBase:FBpp0072602	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9UD68	Dsim\GD13375	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7240	EnsemblMetazoa		P
+UniProtKB	A0A0P8XTZ8	Dana\GF10060	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W0G1|FlyBase:FBpp0072602	7217	EnsemblMetazoa		P
+UniProtKB	A0A0P8YAA8	Dana\GF10361	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7217	EnsemblMetazoa		P
+UniProtKB	A0A0Q5U1Z0	Dere\GG14603	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W0G1|FlyBase:FBpp0072602	7220	EnsemblMetazoa		P
+UniProtKB	A0A0Q9W7K9	Dvir\GJ16782	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9WA58	Dvir\GJ11101	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VGM1|FlyBase:FBpp0291237	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9WDY9	Dvir\GJ23681	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9WDY9	Dvir\GJ23681	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9WDY9	Dvir\GJ23681	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9WUN2	Dvir\GJ11540	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9X404	Dwil\GK10504	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7260	EnsemblMetazoa		P
+UniProtKB	A0A0Q9X7H7	Dwil\GK13236	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7260	EnsemblMetazoa		P
+UniProtKB	A0A0Q9X7H7	Dwil\GK13236	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7260	EnsemblMetazoa		P
+UniProtKB	A0A0Q9X7H7	Dwil\GK13236	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7260	EnsemblMetazoa		P
+UniProtKB	A0A0Q9X803	Dmoj\GI23930	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7230	EnsemblMetazoa		P
+UniProtKB	A0A0R1DW60	Dyak\GE20964	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W0G1|FlyBase:FBpp0072602	7245	EnsemblMetazoa		P
+UniProtKB	A0A0R1E1L9	Dyak\GE25458	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7245	EnsemblMetazoa		P
+UniProtKB	A0A0R1E1L9	Dyak\GE25458	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7245	EnsemblMetazoa		P
+UniProtKB	A0A0R3P7B8	Dpse\GA18136	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	46245	EnsemblMetazoa		P
+UniProtKB	A0A139WFL6	TcasGA2_TC033631	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7070	GO_Central		P
+UniProtKB	A0A3Q7YNP7	CG18389	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7240	EnsemblMetazoa		P
+UniProtKB	A0A3Q7YNR1	CG18389	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7240	EnsemblMetazoa		P
+UniProtKB	A0A3S6A130	CG18389	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7240	EnsemblMetazoa		P
+UniProtKB	A0A3S6A541	CG18389	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7240	EnsemblMetazoa		P
+UniProtKB	A0A3S6ATS3	CG18389	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7240	EnsemblMetazoa		P
+UniProtKB	A0A6I8UCH4	LOC4812863	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UCH4	LOC4812863	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UCH4	LOC4812863	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UEQ9	LOC4814180	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UGK4	LOC4815162	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UM84	LOC4800509	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UN38	LOC4800836	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UNE8	LOC4801009	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UNE8	LOC4801009	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UNE8	LOC4801009	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UP48	LOC4801589	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UPH7	LOC4801772	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UPH7	LOC4801772	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UQW6	LOC4802469	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8URD7	LOC4802889	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8URH2	LOC4802680	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8URX5	LOC4803031	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8USX6	LOC4803737	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UTT8	LOC4804040	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UU15	LOC4803996	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UU15	LOC4803996	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UV25	LOC4804870	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UV25	LOC4804870	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UV25	LOC4804870	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UV25	LOC4804870	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UV76	LOC4804913	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8UXX6	LOC6902767	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8V0B3	LOC6901416	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8VGC3	LOC4805592	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8VJA0	LOC4813998	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8VS07	LOC4803737	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8VW94	LOC6903032	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8VWM8	LOC4816651	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8VXF9	LOC6902767	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8VXS9	LOC6902767	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8W0A0	LOC4817794	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8W6C4	LOC4812667	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8W8C0	LOC6896983	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8WAS1	LOC6896983	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8WE15	LOC6901779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	46245	EnsemblMetazoa		P
+UniProtKB	A0A6I8WF27	LOC6901779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	46245	EnsemblMetazoa		P
+UniProtKB	A0NDQ9	4576787	involved_in	GO:0001666	response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001198456|UniProtKB:A6NIX2|UniProtKB:Q96IF1|UniProtKB:Q9UGP4	7165	GO_Central		P
+UniProtKB	A1ZA22	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	A1ZAV3	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	B3LZ18	Dana\GF17697	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IMS8|FlyBase:FBpp0305820	7217	EnsemblMetazoa		P
+UniProtKB	B3LZH3	Dana\GF18845	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7217	EnsemblMetazoa		P
+UniProtKB	B3M052	Dana\GF17216	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7217	EnsemblMetazoa		P
+UniProtKB	B3M0M0	Dana\GF16105	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7217	EnsemblMetazoa		P
+UniProtKB	B3M0M0	Dana\GF16105	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7217	EnsemblMetazoa		P
+UniProtKB	B3M0U6	Dana\GF17824	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7217	EnsemblMetazoa		P
+UniProtKB	B3M0Y3	Dana\GF18378	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VGM1|FlyBase:FBpp0291237	7217	EnsemblMetazoa		P
+UniProtKB	B3M156	Dana\GF16076	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7217	EnsemblMetazoa		P
+UniProtKB	B3M176	Dana\GF18932	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7217	EnsemblMetazoa		P
+UniProtKB	B3M176	Dana\GF18932	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7217	EnsemblMetazoa		P
+UniProtKB	B3M1B3	Dana\GF17835	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7217	EnsemblMetazoa		P
+UniProtKB	B3M1N4	Dana\GF18940	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7217	EnsemblMetazoa		P
+UniProtKB	B3M1N4	Dana\GF18940	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7217	EnsemblMetazoa		P
+UniProtKB	B3M1N4	Dana\GF18940	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7217	EnsemblMetazoa		P
+UniProtKB	B3M201	Dana\GF18433	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7217	EnsemblMetazoa		P
+UniProtKB	B3M2R2	Dana\GF17958	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7217	EnsemblMetazoa		P
+UniProtKB	B3M2S9	Dana\GF18501	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7217	EnsemblMetazoa		P
+UniProtKB	B3M2T1	Dana\GF18502	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7217	EnsemblMetazoa		P
+UniProtKB	B3M4P1	Dana\GF25310	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	7217	EnsemblMetazoa		P
+UniProtKB	B3M4P1	Dana\GF25310	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	7217	EnsemblMetazoa		P
+UniProtKB	B3M4P1	Dana\GF25310	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	7217	EnsemblMetazoa		P
+UniProtKB	B3M4X9	Dana\GF23871	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7217	EnsemblMetazoa		P
+UniProtKB	B3M5U4	Dana\GF10123	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7217	EnsemblMetazoa		P
+UniProtKB	B3M674	Dana\GF24345	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7217	EnsemblMetazoa		P
+UniProtKB	B3M6F3	Dana\GF10691	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7217	EnsemblMetazoa		P
+UniProtKB	B3M7I0	Dana\GF10240	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7217	EnsemblMetazoa		P
+UniProtKB	B3MA48	Dana\GF24687	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7217	EnsemblMetazoa		P
+UniProtKB	B3MA80	Dana\GF25132	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7217	EnsemblMetazoa		P
+UniProtKB	B3MDC5	Dana\GF11993	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7217	EnsemblMetazoa		P
+UniProtKB	B3ME20	Dana\GF11347	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7217	EnsemblMetazoa		P
+UniProtKB	B3ME20	Dana\GF11347	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7217	EnsemblMetazoa		P
+UniProtKB	B3MFT4	Dana\GF11245	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7217	EnsemblMetazoa		P
+UniProtKB	B3MHB4	Dana\GF11713	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7217	EnsemblMetazoa		P
+UniProtKB	B3MHH7	Dana\GF11143	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7217	EnsemblMetazoa		P
+UniProtKB	B3MHH7	Dana\GF11143	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7217	EnsemblMetazoa		P
+UniProtKB	B3MHH7	Dana\GF11143	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7217	EnsemblMetazoa		P
+UniProtKB	B3MHH7	Dana\GF11143	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7217	EnsemblMetazoa		P
+UniProtKB	B3MI18	Dana\GF13752	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7217	EnsemblMetazoa		P
+UniProtKB	B3MNH5	Dana\GF15651	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7217	EnsemblMetazoa		P
+UniProtKB	B3MNP2	Dana\GF15209	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7217	EnsemblMetazoa		P
+UniProtKB	B3MPL8	Dana\GF14135	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7217	EnsemblMetazoa		P
+UniProtKB	B3MQA9	Dana\GF20279	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7217	EnsemblMetazoa		P
+UniProtKB	B3MQU2	Dana\GF21122	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	7217	EnsemblMetazoa		P
+UniProtKB	B3MTI0	Dana\GF23368	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7217	EnsemblMetazoa		P
+UniProtKB	B3MUB8	Dana\GF20766	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7217	EnsemblMetazoa		P
+UniProtKB	B3MWH1	Dana\GF22448	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7217	EnsemblMetazoa		P
+UniProtKB	B3N1D5	Dana\GF21587	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	7217	EnsemblMetazoa		P
+UniProtKB	B3N3B2	Dere\GG10233	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7220	EnsemblMetazoa		P
+UniProtKB	B3N691	Dere\GG10459	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7220	EnsemblMetazoa		P
+UniProtKB	B3N930	Dere\GG23976	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7220	EnsemblMetazoa		P
+UniProtKB	B3N9X5	Dere\GG10734	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7220	EnsemblMetazoa		P
+UniProtKB	B3NBP8	Dere\GG14338	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7220	EnsemblMetazoa		P
+UniProtKB	B3NBT2	Dere\GG15115	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7220	EnsemblMetazoa		P
+UniProtKB	B3NC06	Dere\GG14203	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7220	EnsemblMetazoa		P
+UniProtKB	B3NCF1	Dere\GG15370	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7220	EnsemblMetazoa		P
+UniProtKB	B3NCS6	Dere\GG15582	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7220	EnsemblMetazoa		P
+UniProtKB	B3NE34	Dere\GG16081	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	7220	EnsemblMetazoa		P
+UniProtKB	B3NE34	Dere\GG16081	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	7220	EnsemblMetazoa		P
+UniProtKB	B3NE34	Dere\GG16081	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	7220	EnsemblMetazoa		P
+UniProtKB	B3NEZ3	Dere\GG14501	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7220	EnsemblMetazoa		P
+UniProtKB	B3NGK5	Dere\GG14014	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7220	EnsemblMetazoa		P
+UniProtKB	B3NIR9	Dere\GG16137	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7220	EnsemblMetazoa		P
+UniProtKB	B3NKB7	Dere\GG20943	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7220	EnsemblMetazoa		P
+UniProtKB	B3NM89	Dere\GG21649	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7220	EnsemblMetazoa		P
+UniProtKB	B3NMJ1	Dere\GG21797	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7220	EnsemblMetazoa		P
+UniProtKB	B3NMJ1	Dere\GG21797	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7220	EnsemblMetazoa		P
+UniProtKB	B3NQB6	Dere\GG20534	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7220	EnsemblMetazoa		P
+UniProtKB	B3NQB6	Dere\GG20534	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7220	EnsemblMetazoa		P
+UniProtKB	B3NQB6	Dere\GG20534	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7220	EnsemblMetazoa		P
+UniProtKB	B3NQB6	Dere\GG20534	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7220	EnsemblMetazoa		P
+UniProtKB	B3NQL1	Dere\GG19921	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7220	EnsemblMetazoa		P
+UniProtKB	B3NRS9	Dere\GG22536	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7220	EnsemblMetazoa		P
+UniProtKB	B3NT15	Dere\GG18821	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	7220	EnsemblMetazoa		P
+UniProtKB	B3NTS0	Dere\GG17614	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	7220	EnsemblMetazoa		P
+UniProtKB	B3NTS7	Dere\GG19657	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7220	EnsemblMetazoa		P
+UniProtKB	B3NTV9	Dere\GG18621	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7220	EnsemblMetazoa		P
+UniProtKB	B3NUT0	Dere\GG18071	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7KMN4|FlyBase:FBpp0074462	7220	EnsemblMetazoa		P
+UniProtKB	B3NUT0	Dere\GG18071	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VWK5|FlyBase:FBpp0074462	7220	EnsemblMetazoa		P
+UniProtKB	B3NVQ7	Dere\GG18043	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7220	EnsemblMetazoa		P
+UniProtKB	B3NZR8	Dere\GG16809	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7220	EnsemblMetazoa		P
+UniProtKB	B3NZX0	Dere\GG23372	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7220	EnsemblMetazoa		P
+UniProtKB	B3P0Q9	Dere\GG16891	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7220	EnsemblMetazoa		P
+UniProtKB	B3P0X6	Dere\GG20201	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7220	EnsemblMetazoa		P
+UniProtKB	B3P132	Dere\GG17008	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7220	EnsemblMetazoa		P
+UniProtKB	B3P133	Dere\GG17009	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7220	EnsemblMetazoa		P
+UniProtKB	B3P1U4	Dere\GG17399	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7220	EnsemblMetazoa		P
+UniProtKB	B3P288	Dere\GG11233	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7220	EnsemblMetazoa		P
+UniProtKB	B3P2A8	Dere\GG12704	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7220	EnsemblMetazoa		P
+UniProtKB	B3P2A8	Dere\GG12704	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7220	EnsemblMetazoa		P
+UniProtKB	B3P367	Dere\GG16152	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7220	EnsemblMetazoa		P
+UniProtKB	B3P367	Dere\GG16152	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7220	EnsemblMetazoa		P
+UniProtKB	B3P367	Dere\GG16152	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7220	EnsemblMetazoa		P
+UniProtKB	B3P4B6	Dere\GG18938	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7220	EnsemblMetazoa		P
+UniProtKB	B3P4J2	Dere\GG18233	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VGM1|FlyBase:FBpp0291237	7220	EnsemblMetazoa		P
+UniProtKB	B3P5E1	Dere\GG11688	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7220	EnsemblMetazoa		P
+UniProtKB	B3P6H8	Dere\GG11413	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IMS8|FlyBase:FBpp0305820	7220	EnsemblMetazoa		P
+UniProtKB	B3P792	Dere\GG11256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7220	EnsemblMetazoa		P
+UniProtKB	B3P792	Dere\GG11256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7220	EnsemblMetazoa		P
+UniProtKB	B3P8P6	Dere\GG11097	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7220	EnsemblMetazoa		P
+UniProtKB	B4G418	Dper\GL23405	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7234	EnsemblMetazoa		P
+UniProtKB	B4G418	Dper\GL23405	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7234	EnsemblMetazoa		P
+UniProtKB	B4G4Y2	Dper\GL24258	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7234	EnsemblMetazoa		P
+UniProtKB	B4G684	Dper\GL23705	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7234	EnsemblMetazoa		P
+UniProtKB	B4G684	Dper\GL23705	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7234	EnsemblMetazoa		P
+UniProtKB	B4G684	Dper\GL23705	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7234	EnsemblMetazoa		P
+UniProtKB	B4G7L6	Dper\GL19182	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7234	EnsemblMetazoa		P
+UniProtKB	B4GA32	Dper\GL11303	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7234	EnsemblMetazoa		P
+UniProtKB	B4GAZ2	Dper\GL11465	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7234	EnsemblMetazoa		P
+UniProtKB	B4GAZ2	Dper\GL11465	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7234	EnsemblMetazoa		P
+UniProtKB	B4GB35	Dper\GL10597	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7234	EnsemblMetazoa		P
+UniProtKB	B4GF45	Dper\GL22138	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7234	EnsemblMetazoa		P
+UniProtKB	B4GFB9	Dper\GL22179	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7234	EnsemblMetazoa		P
+UniProtKB	B4GFC0	Dper\GL22181	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7234	EnsemblMetazoa		P
+UniProtKB	B4GG14	Dper\GL21521	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7234	EnsemblMetazoa		P
+UniProtKB	B4GL30	Dper\GL12493	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7234	EnsemblMetazoa		P
+UniProtKB	B4GML4	Dper\GL12407	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7234	EnsemblMetazoa		P
+UniProtKB	B4GPN5	Dper\GL13912	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7234	EnsemblMetazoa		P
+UniProtKB	B4GQM0	Dper\GL14105	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7234	EnsemblMetazoa		P
+UniProtKB	B4GQY5	Dper\GL25116	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	7234	EnsemblMetazoa		P
+UniProtKB	B4GQY5	Dper\GL25116	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	7234	EnsemblMetazoa		P
+UniProtKB	B4GQY5	Dper\GL25116	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	7234	EnsemblMetazoa		P
+UniProtKB	B4GRG9	Dper\GL25199	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7234	EnsemblMetazoa		P
+UniProtKB	B4GVT9	Dper\GL14605	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	7234	EnsemblMetazoa		P
+UniProtKB	B4GVU8	Dper\GL14724	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7234	EnsemblMetazoa		P
+UniProtKB	B4GXE2	Dper\GL21128	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7234	EnsemblMetazoa		P
+UniProtKB	B4GYF8	Dper\GL19913	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7234	EnsemblMetazoa		P
+UniProtKB	B4GZ67	Dper\GL27313	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7234	EnsemblMetazoa		P
+UniProtKB	B4H1Y9	Dper\GL17876	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7234	EnsemblMetazoa		P
+UniProtKB	B4H662	Dper\GL20402	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7234	EnsemblMetazoa		P
+UniProtKB	B4H7S8	Dper\GL12815	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7234	EnsemblMetazoa		P
+UniProtKB	B4H7X4	Dper\GL12727	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7234	EnsemblMetazoa		P
+UniProtKB	B4H8F3	Dper\GL20078	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7234	EnsemblMetazoa		P
+UniProtKB	B4H8F3	Dper\GL20078	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7234	EnsemblMetazoa		P
+UniProtKB	B4H8F3	Dper\GL20078	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7234	EnsemblMetazoa		P
+UniProtKB	B4H8F3	Dper\GL20078	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7234	EnsemblMetazoa		P
+UniProtKB	B4H8J8	Dper\GL20107	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7234	EnsemblMetazoa		P
+UniProtKB	B4H8W3	Dper\GL24783	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7234	EnsemblMetazoa		P
+UniProtKB	B4H9J6	Dper\GL10333	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7234	EnsemblMetazoa		P
+UniProtKB	B4HA71	Dper\GL18435	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7234	EnsemblMetazoa		P
+UniProtKB	B4HAP5	Dper\GL27105	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7234	EnsemblMetazoa		P
+UniProtKB	B4HE17	Dsec\GM24200	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7238	EnsemblMetazoa		P
+UniProtKB	B4HG36	Dsec\GM25353	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7238	EnsemblMetazoa		P
+UniProtKB	B4HGI2	Dsec\GM26560	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7238	EnsemblMetazoa		P
+UniProtKB	B4HGI2	Dsec\GM26560	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7238	EnsemblMetazoa		P
+UniProtKB	B4HGX6	Dsec\GM24034	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7238	EnsemblMetazoa		P
+UniProtKB	B4HI12	Dsec\GM23953	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VGM1|FlyBase:FBpp0291237	7238	EnsemblMetazoa		P
+UniProtKB	B4HK14	Dsec\GM25080	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7238	EnsemblMetazoa		P
+UniProtKB	B4HKD1	Dsec\GM23808	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7238	EnsemblMetazoa		P
+UniProtKB	B4HKI7	Dsec\GM26289	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7238	EnsemblMetazoa		P
+UniProtKB	B4HKP3	Dsec\GM25142	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7238	EnsemblMetazoa		P
+UniProtKB	B4HL95	Dsec\GM24848	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7238	EnsemblMetazoa		P
+UniProtKB	B4HLE6	Dsec\GM25737	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7238	EnsemblMetazoa		P
+UniProtKB	B4HM72	Dsec\GM26391	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7238	EnsemblMetazoa		P
+UniProtKB	B4HMW5	Dsec\GM21799	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7238	EnsemblMetazoa		P
+UniProtKB	B4HMW5	Dsec\GM21799	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7238	EnsemblMetazoa		P
+UniProtKB	B4HP20	Dsec\GM19873	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7238	EnsemblMetazoa		P
+UniProtKB	B4HPY9	Dsec\GM20322	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7238	EnsemblMetazoa		P
+UniProtKB	B4HR32	Dsec\GM20780	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7238	EnsemblMetazoa		P
+UniProtKB	B4HS55	Dsec\GM21624	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7238	EnsemblMetazoa		P
+UniProtKB	B4HS55	Dsec\GM21624	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7238	EnsemblMetazoa		P
+UniProtKB	B4HS55	Dsec\GM21624	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7238	EnsemblMetazoa		P
+UniProtKB	B4HS55	Dsec\GM21624	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7238	EnsemblMetazoa		P
+UniProtKB	B4HTF9	Dsec\GM14107	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7238	EnsemblMetazoa		P
+UniProtKB	B4HTN6	Dsec\GM14550	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7238	EnsemblMetazoa		P
+UniProtKB	B4HU30	Dsec\GM13994	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7238	EnsemblMetazoa		P
+UniProtKB	B4HVS5	Dsec\GM14217	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W0G1|FlyBase:FBpp0072602	7238	EnsemblMetazoa		P
+UniProtKB	B4HWG6	Dsec\GM11960	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7238	EnsemblMetazoa		P
+UniProtKB	B4HY28	Dsec\GM16311	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7238	EnsemblMetazoa		P
+UniProtKB	B4HZD8	Dsec\GM12814	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7238	EnsemblMetazoa		P
+UniProtKB	B4I3V4	Dsec\GM10665	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7238	EnsemblMetazoa		P
+UniProtKB	B4I3X7	Dsec\GM10797	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7238	EnsemblMetazoa		P
+UniProtKB	B4I3X7	Dsec\GM10797	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7238	EnsemblMetazoa		P
+UniProtKB	B4I5R8	Dsec\GM17028	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7238	EnsemblMetazoa		P
+UniProtKB	B4I782	Dsec\GM22727	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7238	EnsemblMetazoa		P
+UniProtKB	B4I9Y7	Dsec\GM19241	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7238	EnsemblMetazoa		P
+UniProtKB	B4IA44	Dsec\GM22256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	7238	EnsemblMetazoa		P
+UniProtKB	B4IA44	Dsec\GM22256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	7238	EnsemblMetazoa		P
+UniProtKB	B4IA44	Dsec\GM22256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	7238	EnsemblMetazoa		P
+UniProtKB	B4IAF8	Dsec\GM22320	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7238	EnsemblMetazoa		P
+UniProtKB	B4IBE7	Dsec\GM15256	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7238	EnsemblMetazoa		P
+UniProtKB	B4IBU8	Dsec\GM15162	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7238	EnsemblMetazoa		P
+UniProtKB	B4IBU9	Dsec\GM15161	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7238	EnsemblMetazoa		P
+UniProtKB	B4ICA8	Dsec\GM10251	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IMS8|FlyBase:FBpp0305820	7238	EnsemblMetazoa		P
+UniProtKB	B4IED7	Dsec\GM25943	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7238	EnsemblMetazoa		P
+UniProtKB	B4IH25	Dsec\GM11824	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7238	EnsemblMetazoa		P
+UniProtKB	B4IHN3	Dsec\GM17463	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	7238	EnsemblMetazoa		P
+UniProtKB	B4IHP1	Dsec\GM17536	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7238	EnsemblMetazoa		P
+UniProtKB	B4IHY3	Dsec\GM10044	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7238	EnsemblMetazoa		P
+UniProtKB	B4IHY3	Dsec\GM10044	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7238	EnsemblMetazoa		P
+UniProtKB	B4IHY3	Dsec\GM10044	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7238	EnsemblMetazoa		P
+UniProtKB	B4IL93	Dsec\GM13241	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	7238	EnsemblMetazoa		P
+UniProtKB	B4IX67	Dgri\GH14714	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7222	EnsemblMetazoa		P
+UniProtKB	B4IXV0	Dgri\GH15179	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7222	EnsemblMetazoa		P
+UniProtKB	B4IZ44	Dgri\GH15775	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7222	EnsemblMetazoa		P
+UniProtKB	B4J1G9	Dgri\anon-2	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7222	EnsemblMetazoa		P
+UniProtKB	B4J1I5	Dgri\GH15945	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7222	EnsemblMetazoa		P
+UniProtKB	B4J4Q3	Dgri\GH20921	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7222	EnsemblMetazoa		P
+UniProtKB	B4J4Q3	Dgri\GH20921	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7222	EnsemblMetazoa		P
+UniProtKB	B4J8E0	Dgri\GH19970	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7222	EnsemblMetazoa		P
+UniProtKB	B4J8E0	Dgri\GH19970	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7222	EnsemblMetazoa		P
+UniProtKB	B4J8E0	Dgri\GH19970	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7222	EnsemblMetazoa		P
+UniProtKB	B4J8E0	Dgri\GH19970	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7222	EnsemblMetazoa		P
+UniProtKB	B4JA04	Dgri\GH19809	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7222	EnsemblMetazoa		P
+UniProtKB	B4JA20	Dgri\GH19798	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7222	EnsemblMetazoa		P
+UniProtKB	B4JA42	Dgri\GH10350	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7222	EnsemblMetazoa		P
+UniProtKB	B4JCR5	Dgri\GH10098	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7222	EnsemblMetazoa		P
+UniProtKB	B4JEK3	Dgri\GH18436	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7222	EnsemblMetazoa		P
+UniProtKB	B4JF54	Dgri\GH18326	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7222	EnsemblMetazoa		P
+UniProtKB	B4JFC2	Dgri\GH19289	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7222	EnsemblMetazoa		P
+UniProtKB	B4JFC3	Dgri\GH19290	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7222	EnsemblMetazoa		P
+UniProtKB	B4JFR9	Dgri\GH18221	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7222	EnsemblMetazoa		P
+UniProtKB	B4JGA4	Dgri\GH18841	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7222	EnsemblMetazoa		P
+UniProtKB	B4JH06	Dgri\GH18102	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7222	EnsemblMetazoa		P
+UniProtKB	B4JHK9	Dgri\GH18982	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IMS8|FlyBase:FBpp0305820	7222	EnsemblMetazoa		P
+UniProtKB	B4JIG4	Dgri\GH18494	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7222	EnsemblMetazoa		P
+UniProtKB	B4JIG4	Dgri\GH18494	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7222	EnsemblMetazoa		P
+UniProtKB	B4JII9	Dgri\GH18477	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7222	EnsemblMetazoa		P
+UniProtKB	B4JII9	Dgri\GH18477	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7222	EnsemblMetazoa		P
+UniProtKB	B4JII9	Dgri\GH18477	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7222	EnsemblMetazoa		P
+UniProtKB	B4JK31	Dgri\GH12583	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7222	EnsemblMetazoa		P
+UniProtKB	B4JL27	Dgri\GH12777	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7222	EnsemblMetazoa		P
+UniProtKB	B4JMF2	Dgri\GH24034	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7222	EnsemblMetazoa		P
+UniProtKB	B4JPA9	Dgri\GH13482	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7222	EnsemblMetazoa		P
+UniProtKB	B4JRK8	Dgri\GH20931	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7222	EnsemblMetazoa		P
+UniProtKB	B4JRQ1	Dgri\GH21207	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7222	EnsemblMetazoa		P
+UniProtKB	B4JSR0	Dgri\GH22820	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7222	EnsemblMetazoa		P
+UniProtKB	B4JV23	Dgri\GH17385	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7222	EnsemblMetazoa		P
+UniProtKB	B4JYM3	Dgri\GH14323	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7222	EnsemblMetazoa		P
+UniProtKB	B4K4W8	Dmoj\GI22407	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IMS8|FlyBase:FBpp0305820	7230	EnsemblMetazoa		P
+UniProtKB	B4K503	Dmoj\GI24012	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7230	EnsemblMetazoa		P
+UniProtKB	B4K543	Dmoj\GI24602	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7230	EnsemblMetazoa		P
+UniProtKB	B4K5K9	Dmoj\GI24055	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7230	EnsemblMetazoa		P
+UniProtKB	B4K5K9	Dmoj\GI24055	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7230	EnsemblMetazoa		P
+UniProtKB	B4K5K9	Dmoj\GI24055	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7230	EnsemblMetazoa		P
+UniProtKB	B4K609	Dmoj\GI10419	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7230	EnsemblMetazoa		P
+UniProtKB	B4K682	Dmoj\GI23505	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7230	EnsemblMetazoa		P
+UniProtKB	B4K741	Dmoj\GI10483	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7230	EnsemblMetazoa		P
+UniProtKB	B4K7E0	Dmoj\GI24168	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7230	EnsemblMetazoa		P
+UniProtKB	B4K7E0	Dmoj\GI24168	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7230	EnsemblMetazoa		P
+UniProtKB	B4K966	Dmoj\GI23307	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7230	EnsemblMetazoa		P
+UniProtKB	B4KAF7	Dmoj\GI10102	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7230	EnsemblMetazoa		P
+UniProtKB	B4KAP5	Dmoj\GI10724	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7230	EnsemblMetazoa		P
+UniProtKB	B4KBU3	Dmoj\GI10175	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7230	EnsemblMetazoa		P
+UniProtKB	B4KCN3	Dmoj\GI10222	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7230	EnsemblMetazoa		P
+UniProtKB	B4KGL7	Dmoj\GI21237	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7230	EnsemblMetazoa		P
+UniProtKB	B4KHJ8	Dmoj\GI10862	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7230	EnsemblMetazoa		P
+UniProtKB	B4KJ56	Dmoj\GI14382	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7230	EnsemblMetazoa		P
+UniProtKB	B4KKG3	Dmoj\GI17234	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7230	EnsemblMetazoa		P
+UniProtKB	B4KM08	Dmoj\GI18359	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7230	EnsemblMetazoa		P
+UniProtKB	B4KM08	Dmoj\GI18359	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7230	EnsemblMetazoa		P
+UniProtKB	B4KNU5	Dmoj\GI20256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7230	EnsemblMetazoa		P
+UniProtKB	B4KNU5	Dmoj\GI20256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7230	EnsemblMetazoa		P
+UniProtKB	B4KNU5	Dmoj\GI20256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7230	EnsemblMetazoa		P
+UniProtKB	B4KNU5	Dmoj\GI20256	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7230	EnsemblMetazoa		P
+UniProtKB	B4KPD1	Dmoj\GI20339	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7230	EnsemblMetazoa		P
+UniProtKB	B4KRB5	Dmoj\GI19095	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7230	EnsemblMetazoa		P
+UniProtKB	B4KSV5	Dmoj\GI19571	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7230	EnsemblMetazoa		P
+UniProtKB	B4KUA0	Dmoj\GI18901	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7230	EnsemblMetazoa		P
+UniProtKB	B4KVE0	Dmoj\GI12117	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7230	EnsemblMetazoa		P
+UniProtKB	B4KXS7	Dmoj\GI12554	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7230	EnsemblMetazoa		P
+UniProtKB	B4KYH1	Dmoj\GI13415	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7230	EnsemblMetazoa		P
+UniProtKB	B4KZ71	Dmoj\GI12920	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7230	EnsemblMetazoa		P
+UniProtKB	B4L0Q4	Dmoj\GI12260	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7230	EnsemblMetazoa		P
+UniProtKB	B4L111	Dmoj\GI13085	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7230	EnsemblMetazoa		P
+UniProtKB	B4L1M5	Dmoj\GI15870	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7230	EnsemblMetazoa		P
+UniProtKB	B4L1X0	Dmoj\GI14718	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	7230	EnsemblMetazoa		P
+UniProtKB	B4L6B8	Dmoj\GI16206	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7230	EnsemblMetazoa		P
+UniProtKB	B4L816	Dmoj\GI11008	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7230	EnsemblMetazoa		P
+UniProtKB	B4L998	Dmoj\GI16597	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7230	EnsemblMetazoa		P
+UniProtKB	B4L9B4	Dmoj\GI16816	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7230	EnsemblMetazoa		P
+UniProtKB	B4LBA9	Dvir\GJ13391	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7244	EnsemblMetazoa		P
+UniProtKB	B4LBP8	Dvir\GJ12563	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7244	EnsemblMetazoa		P
+UniProtKB	B4LBR4	Dvir\GJ12849	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7244	EnsemblMetazoa		P
+UniProtKB	B4LGH6	Dvir\GJ11491	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7244	EnsemblMetazoa		P
+UniProtKB	B4LGS8	Dvir\GJ13834	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7244	EnsemblMetazoa		P
+UniProtKB	B4LJ29	Dvir\GJ22062	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7244	EnsemblMetazoa		P
+UniProtKB	B4LJW2	Dvir\GJ20210	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7244	EnsemblMetazoa		P
+UniProtKB	B4LJW2	Dvir\GJ20210	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7244	EnsemblMetazoa		P
+UniProtKB	B4LJW2	Dvir\GJ20210	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7244	EnsemblMetazoa		P
+UniProtKB	B4LJW2	Dvir\GJ20210	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7244	EnsemblMetazoa		P
+UniProtKB	B4LKF7	Dvir\GJ20725	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7244	EnsemblMetazoa		P
+UniProtKB	B4LLD3	Dvir\GJ20069	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7244	EnsemblMetazoa		P
+UniProtKB	B4LM40	Dvir\GJ21146	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7244	EnsemblMetazoa		P
+UniProtKB	B4LQ32	Dvir\GJ21428	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7244	EnsemblMetazoa		P
+UniProtKB	B4LQ32	Dvir\GJ21428	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7244	EnsemblMetazoa		P
+UniProtKB	B4LSZ5	Dvir\GJ11069	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7244	EnsemblMetazoa		P
+UniProtKB	B4LW25	Dvir\GJ23643	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7244	EnsemblMetazoa		P
+UniProtKB	B4LY17	Dvir\GJ23839	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7244	EnsemblMetazoa		P
+UniProtKB	B4LZP4	Dvir\GJ22665	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7244	EnsemblMetazoa		P
+UniProtKB	B4LZW5	Dvir\GJ24025	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7244	EnsemblMetazoa		P
+UniProtKB	B4M0C4	Dvir\GJ23164	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7244	EnsemblMetazoa		P
+UniProtKB	B4M0P0	Dvir\GJ23138	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7244	EnsemblMetazoa		P
+UniProtKB	B4M158	Dvir\GJ24163	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7244	EnsemblMetazoa		P
+UniProtKB	B4M453	Dvir\GJ10876	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7244	EnsemblMetazoa		P
+UniProtKB	B4M4D5	Dvir\GJ10258	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7244	EnsemblMetazoa		P
+UniProtKB	B4M4D7	Dvir\GJ10256	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7244	EnsemblMetazoa		P
+UniProtKB	B4M4Z0	Dvir\GJ11024	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7244	EnsemblMetazoa		P
+UniProtKB	B4M5S8	Dvir\GJ10635	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7244	EnsemblMetazoa		P
+UniProtKB	B4M935	Dvir\GJ17994	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7244	EnsemblMetazoa		P
+UniProtKB	B4M9C5	Dvir\GJ18290	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7244	EnsemblMetazoa		P
+UniProtKB	B4MAF0	Dvir\GJ15896	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7244	EnsemblMetazoa		P
+UniProtKB	B4MAT1	Dvir\GJ15607	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7244	EnsemblMetazoa		P
+UniProtKB	B4MBY7	Dvir\GJ14201	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7244	EnsemblMetazoa		P
+UniProtKB	B4MBY7	Dvir\GJ14201	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7244	EnsemblMetazoa		P
+UniProtKB	B4MG27	Dvir\GJ15457	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7244	EnsemblMetazoa		P
+UniProtKB	B4MG78	Dvir\GJ18516	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7244	EnsemblMetazoa		P
+UniProtKB	B4MIN0	Dwil\GK10697	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7260	EnsemblMetazoa		P
+UniProtKB	B4MJQ1	Dwil\GK20875	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7260	EnsemblMetazoa		P
+UniProtKB	B4MK15	Dwil\GK20702	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7260	EnsemblMetazoa		P
+UniProtKB	B4MMF5	Dwil\h	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7260	EnsemblMetazoa		P
+UniProtKB	B4MN47	Dwil\GK17636	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7260	EnsemblMetazoa		P
+UniProtKB	B4MQM1	Dwil\GK21900	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7260	EnsemblMetazoa		P
+UniProtKB	B4MQM1	Dwil\GK21900	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7260	EnsemblMetazoa		P
+UniProtKB	B4MSZ2	Dwil\GK19802	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7260	EnsemblMetazoa		P
+UniProtKB	B4MWL7	Dwil\GK14815	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7260	EnsemblMetazoa		P
+UniProtKB	B4MX98	Dwil\GK13598	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7260	EnsemblMetazoa		P
+UniProtKB	B4MXA2	Dwil\GK13390	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7260	EnsemblMetazoa		P
+UniProtKB	B4MZY4	Dwil\GK24291	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7260	EnsemblMetazoa		P
+UniProtKB	B4N2Z7	Dwil\GK12541	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7260	EnsemblMetazoa		P
+UniProtKB	B4N8U6	Dwil\GK10963	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7260	EnsemblMetazoa		P
+UniProtKB	B4NA72	Dwil\GK11420	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7260	EnsemblMetazoa		P
+UniProtKB	B4NBK8	Dwil\GK11918	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7260	EnsemblMetazoa		P
+UniProtKB	B4NBN0	Dwil\GK11157	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7260	EnsemblMetazoa		P
+UniProtKB	B4NBN0	Dwil\GK11157	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7260	EnsemblMetazoa		P
+UniProtKB	B4NCX2	Dwil\GK25006	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7260	EnsemblMetazoa		P
+UniProtKB	B4NHQ6	Dwil\GK14236	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7260	EnsemblMetazoa		P
+UniProtKB	B4NI81	Dwil\GK14294	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7260	EnsemblMetazoa		P
+UniProtKB	B4NIR7	Dwil\GK13492	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7260	EnsemblMetazoa		P
+UniProtKB	B4NJ88	Dwil\GK14379	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7260	EnsemblMetazoa		P
+UniProtKB	B4NJM6	Dwil\GK14405	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7260	EnsemblMetazoa		P
+UniProtKB	B4NK75	Dwil\GK14484	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7260	EnsemblMetazoa		P
+UniProtKB	B4NK76	Dwil\GK14486	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7260	EnsemblMetazoa		P
+UniProtKB	B4NKT4	Dwil\GK13300	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7260	EnsemblMetazoa		P
+UniProtKB	B4NL18	Dwil\GK14018	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7260	EnsemblMetazoa		P
+UniProtKB	B4NLZ6	Dwil\GK10570	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7260	EnsemblMetazoa		P
+UniProtKB	B4NMT4	Dwil\GK23030	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7260	EnsemblMetazoa		P
+UniProtKB	B4NMT4	Dwil\GK23030	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7260	EnsemblMetazoa		P
+UniProtKB	B4NMT4	Dwil\GK23030	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7260	EnsemblMetazoa		P
+UniProtKB	B4NMT4	Dwil\GK23030	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7260	EnsemblMetazoa		P
+UniProtKB	B4NTS6	Dsim\GD24645	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	7240	EnsemblMetazoa		P
+UniProtKB	B4NUR5	Dsim\GD24457	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7240	EnsemblMetazoa		P
+UniProtKB	B4NZ54	Dyak\GE26395	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	7245	EnsemblMetazoa		P
+UniProtKB	B4NZW3	Dyak\GE14373	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7245	EnsemblMetazoa		P
+UniProtKB	B4P1R3	Dyak\GE23849	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q961L4|FlyBase:FBpp0088031	7245	EnsemblMetazoa		P
+UniProtKB	B4P2K6	Dyak\GE11978	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7245	EnsemblMetazoa		P
+UniProtKB	B4P486	Dyak\GE13882	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7245	EnsemblMetazoa		P
+UniProtKB	B4P4W4	Dyak\GE13408	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7245	EnsemblMetazoa		P
+UniProtKB	B4P5F1	Dyak\GE11872	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7245	EnsemblMetazoa		P
+UniProtKB	B4P5F1	Dyak\GE11872	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7245	EnsemblMetazoa		P
+UniProtKB	B4P7B9	Dyak\GE11718	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7245	EnsemblMetazoa		P
+UniProtKB	B4P7B9	Dyak\GE11718	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7245	EnsemblMetazoa		P
+UniProtKB	B4P7B9	Dyak\GE11718	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7245	EnsemblMetazoa		P
+UniProtKB	B4P7B9	Dyak\GE11718	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7245	EnsemblMetazoa		P
+UniProtKB	B4PAH3	Dyak\GE12669	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7245	EnsemblMetazoa		P
+UniProtKB	B4PBB7	Dyak\GE11445	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7245	EnsemblMetazoa		P
+UniProtKB	B4PDC0	Dyak\GE21692	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7245	EnsemblMetazoa		P
+UniProtKB	B4PED5	Dyak\GE21216	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7245	EnsemblMetazoa		P
+UniProtKB	B4PEY0	Dyak\GE20832	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7245	EnsemblMetazoa		P
+UniProtKB	B4PFK6	Dyak\GE20765	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7245	EnsemblMetazoa		P
+UniProtKB	B4PGS9	Dyak\GE21911	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7245	EnsemblMetazoa		P
+UniProtKB	B4PHS6	Dyak\GE20631	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7245	EnsemblMetazoa		P
+UniProtKB	B4PKH2	Dyak\GE25491	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7245	EnsemblMetazoa		P
+UniProtKB	B4PKY7	Dyak\GE10258	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7245	EnsemblMetazoa		P
+UniProtKB	B4PL17	Dyak\GE23448	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7245	EnsemblMetazoa		P
+UniProtKB	B4PL17	Dyak\GE23448	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7245	EnsemblMetazoa		P
+UniProtKB	B4PMS2	Dyak\GE25149	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7245	EnsemblMetazoa		P
+UniProtKB	B4PMS2	Dyak\GE25149	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7245	EnsemblMetazoa		P
+UniProtKB	B4PMS2	Dyak\GE25149	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7245	EnsemblMetazoa		P
+UniProtKB	B4PPA1	Dyak\GE26195	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7245	EnsemblMetazoa		P
+UniProtKB	B4PPL1	Dyak\GE23877	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7245	EnsemblMetazoa		P
+UniProtKB	B4PQL3	Dyak\GE24402	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7245	EnsemblMetazoa		P
+UniProtKB	B4PQL4	Dyak\GE24401	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7245	EnsemblMetazoa		P
+UniProtKB	B4PR48	Dyak\ird5	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7245	EnsemblMetazoa		P
+UniProtKB	B4PS88	Dyak\GE24273	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7245	EnsemblMetazoa		P
+UniProtKB	B4PSL3	Dyak\GE25851	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7245	EnsemblMetazoa		P
+UniProtKB	B4PTJ1	Dyak\GE23609	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IMS8|FlyBase:FBpp0305820	7245	EnsemblMetazoa		P
+UniProtKB	B4PTZ4	Dyak\GE24803	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7245	EnsemblMetazoa		P
+UniProtKB	B4PU49	Dyak\GE24181	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VGM1|FlyBase:FBpp0291237	7245	EnsemblMetazoa		P
+UniProtKB	B4PUP1	Dyak\GE25953	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7245	EnsemblMetazoa		P
+UniProtKB	B4PWT3	Dyak\GE15468	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7KMN4|FlyBase:FBpp0074462	7245	EnsemblMetazoa		P
+UniProtKB	B4PWT3	Dyak\GE15468	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VWK5|FlyBase:FBpp0074462	7245	EnsemblMetazoa		P
+UniProtKB	B4PZF6	Dyak\GE17372	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7245	EnsemblMetazoa		P
+UniProtKB	B4Q0S9	Dyak\GE15731	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7245	EnsemblMetazoa		P
+UniProtKB	B4Q0X2	Dyak\GE16274	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7245	EnsemblMetazoa		P
+UniProtKB	B4Q102	Dyak\GE17515	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	7245	EnsemblMetazoa		P
+UniProtKB	B4Q1H2	Dyak\GE17585	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	7245	EnsemblMetazoa		P
+UniProtKB	B4Q4A8	Dsim\Vha68-1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7240	EnsemblMetazoa		P
+UniProtKB	B4Q5C3	Dsim\GD23452	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VM47|FlyBase:FBpp0110277	7240	EnsemblMetazoa		P
+UniProtKB	B4Q9G9	Dsim\GD21777	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	7240	EnsemblMetazoa		P
+UniProtKB	B4QB94	Dsim\GD11289	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZAV3|FlyBase:FBpp0112003	7240	EnsemblMetazoa		P
+UniProtKB	B4QB94	Dsim\GD11289	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GU55|FlyBase:FBpp0112003	7240	EnsemblMetazoa		P
+UniProtKB	B4QC06	Dsim\GD24945	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P91927|FlyBase:FBpp0072255	7240	EnsemblMetazoa		P
+UniProtKB	B4QD35	Dsim\GD25357	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MRP7|FlyBase:FBpp0085816	7240	EnsemblMetazoa		P
+UniProtKB	B4QDW5	Dsim\GD25800	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7240	EnsemblMetazoa		P
+UniProtKB	B4QDW6	Dsim\GD25799	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q00449|FlyBase:FBpp0086914	7240	EnsemblMetazoa		P
+UniProtKB	B4QGW1	Dsim\GD11127	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A1ZA22|FlyBase:FBpp0086469	7240	EnsemblMetazoa		P
+UniProtKB	B4QGW1	Dsim\GD11127	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MPP2|FlyBase:FBpp0086469	7240	EnsemblMetazoa		P
+UniProtKB	B4QGW1	Dsim\GD11127	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8MSR4|FlyBase:FBpp0086469	7240	EnsemblMetazoa		P
+UniProtKB	B4QGW1	Dsim\GD11127	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9GQ88|FlyBase:FBpp0086469	7240	EnsemblMetazoa		P
+UniProtKB	B4QJ72	Dsim\GD14908	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IPU3|FlyBase:FBpp0077912	7240	EnsemblMetazoa		P
+UniProtKB	B4QN52	Dsim\GD14176	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	7240	EnsemblMetazoa		P
+UniProtKB	B4QNL4	Dsim\GD13375	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	7240	EnsemblMetazoa		P
+UniProtKB	B4QNM9	Dsim\GD12900	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	7240	EnsemblMetazoa		P
+UniProtKB	B4QPF8	Dsim\GD13742	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7240	EnsemblMetazoa		P
+UniProtKB	B4QQI6	Dsim\GD13273	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	7240	EnsemblMetazoa		P
+UniProtKB	B4QRG4	Dsim\GD14854	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	7240	EnsemblMetazoa		P
+UniProtKB	B4QRG4	Dsim\GD14854	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	7240	EnsemblMetazoa		P
+UniProtKB	B4QRG4	Dsim\GD14854	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	7240	EnsemblMetazoa		P
+UniProtKB	B4QRP3	Dsim\GD14386	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	7240	EnsemblMetazoa		P
+UniProtKB	B4QSA7	Dsim\GD18835	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7240	EnsemblMetazoa		P
+UniProtKB	B4QSG6	Dsim\GD21066	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9A9|FlyBase:FBpp0083931	7240	EnsemblMetazoa		P
+UniProtKB	B4QSG6	Dsim\GD21066	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VCC9|FlyBase:FBpp0083931	7240	EnsemblMetazoa		P
+UniProtKB	B4QTG5	Dsim\GD20130	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IHE3|FlyBase:FBpp0083163	7240	EnsemblMetazoa		P
+UniProtKB	B4QTG5	Dsim\GD20130	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q95U00|FlyBase:FBpp0083163	7240	EnsemblMetazoa		P
+UniProtKB	B4QTG5	Dsim\GD20130	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VDZ7|FlyBase:FBpp0083163	7240	EnsemblMetazoa		P
+UniProtKB	B4QU24	Dsim\GD18764	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VGM1|FlyBase:FBpp0291237	7240	EnsemblMetazoa		P
+UniProtKB	B4QV54	Dsim\GD19180	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7240	EnsemblMetazoa		P
+UniProtKB	B4QVB6	Dsim\msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8IMS8|FlyBase:FBpp0305820	7240	EnsemblMetazoa		P
+UniProtKB	B4QW70	Dsim\GD19642	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VN75|FlyBase:FBpp0290527	7240	EnsemblMetazoa		P
+UniProtKB	B4QW92	Dsim\GD19771	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7240	EnsemblMetazoa		P
+UniProtKB	B4QW92	Dsim\GD19771	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8SX21|FlyBase:FBpp0310716	7240	EnsemblMetazoa		P
+UniProtKB	B4QWM0	Dsim\GD18617	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHD0|FlyBase:FBpp0081538	7240	EnsemblMetazoa		P
+UniProtKB	B4QX22	Dsim\GD19105	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU5|FlyBase:FBpp0082745	7240	EnsemblMetazoa		P
+UniProtKB	B4QX23	Dsim\GD19104	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEU6|FlyBase:FBpp0110263	7240	EnsemblMetazoa		P
+UniProtKB	B4QXB0	Dsim\GD20825	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7240	EnsemblMetazoa		P
+UniProtKB	B4QXR1	Dsim\ird5	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	B4QYQ2	Dsim\GD18515	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7240	EnsemblMetazoa		P
+UniProtKB	B4QZ50	Dsim\GD18990	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8INF0|FlyBase:FBpp0110261	7240	EnsemblMetazoa		P
+UniProtKB	B4QZC2	Dsim\GD20912	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q24079|FlyBase:FBpp0303410	7240	EnsemblMetazoa		P
+UniProtKB	B4R080	Dsim\GD21458	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VAI1|FlyBase:FBpp0084839	7240	EnsemblMetazoa		P
+UniProtKB	B4R3J7	Dsim\GD16616	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	7240	EnsemblMetazoa		P
+UniProtKB	B4R671	Dsim\GD16856	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	7240	EnsemblMetazoa		P
+UniProtKB	B4R7C1	Dsim\GD15596	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7KMN4|FlyBase:FBpp0074462	7240	EnsemblMetazoa		P
+UniProtKB	B4R7C1	Dsim\GD15596	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VWK5|FlyBase:FBpp0074462	7240	EnsemblMetazoa		P
+UniProtKB	B4R7C2	Dsim\GD15595	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7KMN4|FlyBase:FBpp0074462	7240	EnsemblMetazoa		P
+UniProtKB	B4R7C2	Dsim\GD15595	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VWK5|FlyBase:FBpp0074462	7240	EnsemblMetazoa		P
+UniProtKB	B5DHY7	Dpse\GA25872	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VL32|FlyBase:FBpp0402894	46245	EnsemblMetazoa		P
+UniProtKB	B5DL92	Dpse\GA22687	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	46245	EnsemblMetazoa		P
+UniProtKB	B5DMK8	Dpse\GA27773	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9W3Q5|FlyBase:FBpp0111859	46245	EnsemblMetazoa		P
+UniProtKB	B5DMP8	Dpse\GA29178	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VYS3|FlyBase:FBpp0073433	46245	EnsemblMetazoa		P
+UniProtKB	B5DR49	Dpse\GA28326	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	46245	EnsemblMetazoa		P
+UniProtKB	B6UVY7	ald	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7245	EnsemblMetazoa		P
+UniProtKB	B6UVY8	ald	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7240	EnsemblMetazoa		P
+UniProtKB	B6UVY9	ald	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7240	EnsemblMetazoa		P
+UniProtKB	B6UVZ1	ald	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7240	EnsemblMetazoa		P
+UniProtKB	B6UVZ2	ald	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7240	EnsemblMetazoa		P
+UniProtKB	B6UVZ3	ald	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7240	EnsemblMetazoa		P
+UniProtKB	B6UVZ4	ald	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0B4KG66|FlyBase:FBpp0303766	7240	EnsemblMetazoa		P
+UniProtKB	B7Z043	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	D2A1Y3	TcasGA2_TC007793	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000452651|UniProtKB:Q9Y4L1	7070	GO_Central		P
+UniProtKB	D6WHQ8	TcasGA2_TC002888	involved_in	GO:0061428	negative regulation of transcription from RNA polymerase II promoter in response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000967060|UniProtKB:Q9NWT6	7070	GO_Central		P
+UniProtKB	D6WMG7	TcasGA2_TC013241	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0266411|MGI:MGI:106918|PANTHER:PTN000548864|RGD:61928|RGD:68404|UniProtKB:Q16665|UniProtKB:Q99814	7070	GO_Central		P
+UniProtKB	D6WNA7	TcasGA2_TC013882	involved_in	GO:0001666	response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001198456|UniProtKB:A6NIX2|UniProtKB:Q96IF1|UniProtKB:Q9UGP4	7070	GO_Central		P
+UniProtKB	J7I846	J7I846	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y0V3|FlyBase:FBpp0074536	7237	EnsemblMetazoa		P
+UniProtKB	M9PD17	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	M9PDZ5	CHES-1-like	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	O15945	tgo	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:16278294		7227	FlyBase		P
+UniProtKB	O46067	GRP170	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000452651|UniProtKB:Q9Y4L1	7227	GO_Central		P
+UniProtKB	O46067	GRP170	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9Y4L1	7227	FlyBase		P
+UniProtKB	O76863	eIF2Bbeta	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	P02516	Hsp23	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P02516	Hsp23	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P02825	Hsp70Ab	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P02825	Hsp70Ab	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P10735	tko	involved_in	GO:0001666	response to hypoxia	ECO:0000314	IDA	PMID:20034480		7227	FlyBase		P
+UniProtKB	P14003	h	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:18927626		7227	FlyBase		P
+UniProtKB	P24156	l(2)37Cc	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	P29303	h	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7244	EnsemblMetazoa		P
+UniProtKB	P35500	para	involved_in	GO:0001666	response to hypoxia	ECO:0000314	IDA	PMID:20034480		7227	FlyBase		P
+UniProtKB	P48602	Vha68-1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	P54352	eas	involved_in	GO:0001666	response to hypoxia	ECO:0000314	IDA	PMID:20034480		7227	FlyBase		P
+UniProtKB	P82910	Hsp70Aa	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P82910	Hsp70Aa	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	P91927	Letm1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q00449	Mdr49	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q00449	Mdr49	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q0E9G4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q0E9G4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q24079	Eip93F	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0266411|MGI:MGI:106918|PANTHER:PTN000548864|RGD:61928|RGD:68404|UniProtKB:Q16665|UniProtKB:Q99814	7227	GO_Central		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000250	ISS	PMID:8682312	HGNC:4910	7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:19587118		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:16278294		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q24167	sima	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:19285057		7227	FlyBase		P
+UniProtKB	Q24179	Slh	involved_in	GO:0001666	response to hypoxia	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q62991	7227	ParkinsonsUK-UCL		P
+UniProtKB	Q24278	CngA	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q24278	CngA	involved_in	GO:0001666	response to hypoxia	ECO:0000316	IGI	PMID:20592263	FB:FBgn0038435,FB:FBgn0038436	7227	FlyBase		P
+UniProtKB	Q24767	per	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15945|FlyBase:FBpp0081483	7245	EnsemblMetazoa		P
+UniProtKB	Q29CK9	Dpse\GA10498	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P24156|FlyBase:FBpp0312093	46245	EnsemblMetazoa		P
+UniProtKB	Q29D11	Dpse\GA19636	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	46245	EnsemblMetazoa		P
+UniProtKB	Q29D62	Dpse\GA13429	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZF4|FlyBase:FBpp0073101	46245	EnsemblMetazoa		P
+UniProtKB	Q29EF9	Dpse\GA19839	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NCC3|FlyBase:FBpp0076142	46245	EnsemblMetazoa		P
+UniProtKB	Q29F78	Dpse\GA16811	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B7Z043|FlyBase:FBpp0310920	46245	EnsemblMetazoa		P
+UniProtKB	Q29F97	Dpse\GA18202	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P02516|FlyBase:FBpp0301282	46245	EnsemblMetazoa		P
+UniProtKB	Q29G95	Dpse\GA11443	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U4L6|FlyBase:FBpp0305890	46245	EnsemblMetazoa		P
+UniProtKB	Q29HR5	Dpse\GA15423	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O76863|FlyBase:FBpp0070457	46245	EnsemblMetazoa		P
+UniProtKB	Q2M0L5	Dpse\GA10496	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VTZ6|FlyBase:FBpp0075693	46245	EnsemblMetazoa		P
+UniProtKB	Q2M0Y0	Dpse\GA19997	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7K0T0|FlyBase:FBpp0074588	46245	EnsemblMetazoa		P
+UniProtKB	Q2M0Y0	Dpse\GA19997	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9U9B0|FlyBase:FBpp0074588	46245	EnsemblMetazoa		P
+UniProtKB	Q2M0Y0	Dpse\GA19997	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VW83|FlyBase:FBpp0074588	46245	EnsemblMetazoa		P
+UniProtKB	Q6B4I4	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q6V4B6	Q6V4B6	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7245	EnsemblMetazoa		P
+UniProtKB	Q6V6P6	Q6V6P6	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	Q6V6P7	Q6V6P7	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	Q6V6P8	Q6V6P8	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	Q6V6P9	Q6V6P9	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	Q6V6Q0	Q6V6Q0	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	Q6V6Q1	Q6V6Q1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	Q6V6Q2	Q6V6Q2	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VEZ5|FlyBase:FBpp0293344	7240	EnsemblMetazoa		P
+UniProtKB	Q6XHG9	Q6XHG9	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VG69|FlyBase:FBpp0082063	7245	EnsemblMetazoa		P
+UniProtKB	Q6XHL9	Dyak\GE21341	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VZS3|FlyBase:FBpp0072908	7245	EnsemblMetazoa		P
+UniProtKB	Q7JN15	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q7K0T0	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q7KMN4	Ulp1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q7KXY9	Mnn1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16260610		7227	FlyBase		P
+UniProtKB	Q7PRA0	AgaP_AGAP002942	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0266411|MGI:MGI:106918|PANTHER:PTN000548864|RGD:61928|RGD:68404|UniProtKB:Q16665|UniProtKB:Q99814	7165	GO_Central		P
+UniProtKB	Q7PYB0	1281282	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN000452651|UniProtKB:Q9Y4L1	7165	GO_Central		P
+UniProtKB	Q7QAV2	1274180	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7165	GO_Central		P
+UniProtKB	Q7YU18	Eip93F	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q86L93	Q86L93	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9VHV5|FlyBase:FBpp0308780	7217	EnsemblMetazoa		P
+UniProtKB	Q86PA1	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8I0C2	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7227	GO_Central		P
+UniProtKB	Q8I0C2	Hph	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q8I0C2	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:11598268		7227	FlyBase		P
+UniProtKB	Q8IHE3	CG11779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8IMS8	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8INF0	Gyc88E	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q8INI8	Hsp70Ba	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8INI8	Hsp70Ba	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8IPU3	tzn	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q8MPP2	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8MRP7	MFS14	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8MRP7	MFS14	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q8MS04	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8MSR4	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8MXF6	Vha68-1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48602|FlyBase:FBpp0080010	7240	EnsemblMetazoa		P
+UniProtKB	Q8MZ79	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q8SX21	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7227	GO_Central		P
+UniProtKB	Q8SX21	Hph	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q8SX21	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:11598268		7227	FlyBase		P
+UniProtKB	Q8SXU2	Mnn1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16260610		7227	FlyBase		P
+UniProtKB	Q95SB6	CG11779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q95U00	CG11779	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q95UA9	h	involved_in	GO:0001666	response to hypoxia	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P14003|FlyBase:FBpp0099504	7240	EnsemblMetazoa		P
+UniProtKB	Q961L4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q961L4	Drat	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIR7	Hsp70Bc	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIR7	Hsp70Bc	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIS2	Hsp70Bb	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9BIS2	Hsp70Bb	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9GQ88	eIF2Bgamma	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9GU55	MESR4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9I7P8	tzn	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9NCC3	SH3PX1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9NII1	Adar	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:11254668		7227	FlyBase		P
+UniProtKB	Q9U1H1	CHES-1-like	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9U4L6	Tom40	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9U9A9	Tsc1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9U9B0	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VAI1	CIA30	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:23226344		7227	FlyBase		P
+UniProtKB	Q9VBQ1	msi	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VCC9	Tsc1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VDZ7	CG117799	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VDZ8	CG117799	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VEH1	Mps1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:15556864		7227	FlyBase		P
+UniProtKB	Q9VEU5	Gyc89Db	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q9VEU6	Gyc89Da	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:20592263		7227	FlyBase		P
+UniProtKB	Q9VEZ5	IKKbeta	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:24993778		7227	FlyBase		P
+UniProtKB	Q9VG58	Hsp70Bbb	involved_in	GO:0001666	response to hypoxia	ECO:0000270	IEP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9VG58	Hsp70Bbb	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:19401761		7227	FlyBase		P
+UniProtKB	Q9VG69	Srlp	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VGM1	Mrp4	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:17284667		7227	FlyBase		P
+UniProtKB	Q9VHD0	phu	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VHV5	Arl8	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VL32	Sur	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16882722		7227	FlyBase		P
+UniProtKB	Q9VM47	Mnn1	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:16260610		7227	FlyBase		P
+UniProtKB	Q9VN75	plh	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VN98	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000318	IBA	PMID:21873635	FB:FBgn0264785|PANTHER:PTN004393218	7227	GO_Central		P
+UniProtKB	Q9VN98	Hph	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:12215541		7227	FlyBase		P
+UniProtKB	Q9VN98	Hph	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:11598268		7227	FlyBase		P
+UniProtKB	Q9VPB3	tzn	involved_in	GO:0001666	response to hypoxia	ECO:0000315	IMP	PMID:26576852		7227	FlyBase		P
+UniProtKB	Q9VTZ6	Pmm2	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VW12	CG9231	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q96A26	7227	FlyBase		P
+UniProtKB	Q9VW83	gig	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VWK5	Ulp1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VY77	jub	involved_in	GO:0001666	response to hypoxia	ECO:0000318	IBA	PMID:21873635	PANTHER:PTN001198456|UniProtKB:A6NIX2|UniProtKB:Q96IF1|UniProtKB:Q9UGP4	7227	GO_Central		P
+UniProtKB	Q9VYS3	Upf1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VZF4	ago	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:19285057		7227	FlyBase		P
+UniProtKB	Q9VZS3	eIF1	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9VZY2	Mrtf	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9W0G1	Ptp61F	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9W3Q5	CHES-1-like	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9W539	Hr4	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+UniProtKB	Q9Y0V3	Tim9b	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000315	IMP	PMID:18653470		7227	FlyBase		P
+RNAcentral	URS000022A117_7227	Drosophila melanogaster (fruit fly) dme-miR-190-5p	involved_in	GO:0071456	cellular response to hypoxia	ECO:0000314	IDA	PMID:27223464		7227	FlyBase		P
